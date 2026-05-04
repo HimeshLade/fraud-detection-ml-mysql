@@ -6,9 +6,11 @@
 
 Complete ML-based fraud detection using synthetic financial transactions (1M+ records). LogisticRegression model achieves **95% accuracy**. Interactive Streamlit app for predictions.
 
-## Live Demo Screenshots
-(visuals/Fraud Example.png)
-(visuals/Safe Example.png)
+## 📸 Live Demo Screenshots
+
+![Fraud Example](visuals/Fraud Example.png)
+
+![Safe Example](visuals/Safe Example.png)
 ## Quick Start 🏃‍♂️
 
 ```bash
