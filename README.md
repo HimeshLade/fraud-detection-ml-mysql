@@ -8,9 +8,9 @@ Complete ML-based fraud detection using synthetic financial transactions (1M+ re
 
 ## 📸 Live Demo Screenshots
 
-![Fraud Example](visuals/Fraud Example.png)
+![Fraud Example](visuals/Fraud%20Example.png)
 
-![Safe Example](visuals/Safe Example.png)
+![Safe Example](visuals/Safe%20Example.png)
 ## Quick Start 🏃‍♂️
 
 ```bash
